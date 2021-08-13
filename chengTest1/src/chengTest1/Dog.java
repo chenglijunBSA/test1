@@ -10,6 +10,7 @@ public class Dog {
 	   }
 
 	   void hungry() {
+		   String level	;
 	   }
 
 	   void sleeping() {
