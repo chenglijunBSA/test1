@@ -11,6 +11,7 @@ public class Dog {
 
 	   void hungry() {
 		   String level	;
+		   String color;
 	   }
 
 	   void sleeping() {
