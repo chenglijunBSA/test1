@@ -12,6 +12,7 @@ public class Dog {
 	   void hungry() {
 		   String level	;
 		   String color;
+		   String FoodType;
 	   }
 
 	   void sleeping() {
